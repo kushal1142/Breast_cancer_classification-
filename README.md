@@ -30,7 +30,7 @@ Breast cancer is one of the most common cancers worldwide. Early and accurate de
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Library | Purpose |
 |---|---|
@@ -82,7 +82,7 @@ Output Layer →  2 neurons, Softmax activation (binary classification)
 
 ---
 
-## 📊 Results
+##  Results
 
 | Metric | Value |
 |---|---|
@@ -105,7 +105,7 @@ input_data = (11.76, 21.6, 74.72, 427.9, 0.08637, ...)
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. **Clone the repository**
    ```bash
@@ -140,21 +140,21 @@ jupyter
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to open a pull request or raise an issue.
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+##  Author
 Kushal Bhattarai
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [kushal1142](https://github.com/kushal1142)
+
